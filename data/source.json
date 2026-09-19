@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/ksamint/tableai_designaha",
+  "commit": "17e8486df5cc2896049164fdef9c876e5790897b",
+  "folder": "KaoyuShenhua",
+  "brandApi": "https://apuch.art/api/brands/kaoyu-shenhua.json",
+  "retrievedAt": "2026-09-19T14:51:18.334423+00:00",
+  "files": {
+    "KaoyuShenhua/README.md": "0856dd16e2f012b5570e1f9c87ac85d2ff99d64cef412d20f4437e066a968af0",
+    "KaoyuShenhua/assets/adobe-assets/kaoyu-shenhua-logo.json": "6f1b2b0635391cfc83fb385566b7ea6cb611416662489dcb67d3053260038b5d"
+  }
+}
